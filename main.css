@@ -19,11 +19,11 @@
   }
   
   .light-theme {
-    --bg: var(--green);
-    --fontColor: var(--black);
+    color: #000000;
+    background: #00FF00;
   }
   
   .dark-theme {
-    --bg: var(--black);
-    --fontColor: var(--green);
+    color: #000000;
+    background: #00FF00;
   }
